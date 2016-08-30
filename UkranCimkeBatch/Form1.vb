@@ -177,14 +177,12 @@ Public Class Form1
         Call Szimulacio()
     End Sub
     Sub Szimulacio()
-        Dim strPrinter As String
         Dim strPrintText As String
-        Dim res As String
         Dim FILE_NAME As String = "CimkekBatch.txt"
         Dim TextLine As String
         Dim strCat As String
         Dim strQty As String
-        Dim strSzim As String
+
 
 
 
