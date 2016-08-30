@@ -224,4 +224,12 @@ Public Class Form1
 
         MessageBox.Show("SZIMULÁCIÓ KÉSZ!")
     End Sub
+
+
+    Private Sub TextBoxSzim_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBoxSzim.KeyPress
+        If e.KeyChar = Convert.ToChar(1) Then
+            DirectCast(sender, TextBox).SelectAll()
+            e.Handled = True
+        End If
+    End Sub
 End Class
