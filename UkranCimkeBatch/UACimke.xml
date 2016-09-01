@@ -1,1638 +1,2178 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <cimkek>
-  <cimke name="210510002">
-    <megnev>Викрутка</megnev>
-    <meret>3,5 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210510017">
-    <megnev>Шило</megnev>
-    <meret>10 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210510021">
-    <megnev>Викрутка</megnev>
-    <meret>8 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210510030">
-    <megnev>Молоток</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210510032">
-    <megnev>Напрямляч</megnev>
-    <meret>2,7х900 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210510036">
-    <megnev>Динамометрична викрутка</megnev>
-    <meret> T9 / 1 Нм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210510044">
-    <megnev>Динамометрична викрутка</megnev>
-    <meret>T15 / 1.5 Нм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210510046">
-    <megnev>Динамометрична викрутка</megnev>
-    <meret>T25 / 3.5 Нм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210510056">
-    <megnev>Динамометрична викрутка</megnev>
-    <meret> TA7 / 0.2 Нм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210510242">
-    <megnev>Стопор свердла</megnev>
-    <meret>4,2 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210700035">
-    <megnev>Викрутка</megnev>
-    <meret>3.5 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210720007">
-    <megnev>Викрутка</megnev>
-    <meret>TA7</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210720009">
-    <megnev>Викрутка</megnev>
-    <meret>T9</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210720015">
-    <megnev>Викрутка</megnev>
-    <meret>T15</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210720025">
-    <megnev>Викрутка</megnev>
-    <meret>T25</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="210904004">
-    <megnev>Напрямляч з оливоподібною голівкою</megnev>
-    <meret>4/3x900 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="240300904">
-    <megnev>Спіральне свердло швидкого монтажу</megnev>
-    <meret>2,8x165 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="251910008">
-    <megnev>Ключ для гайки</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="254900020">
-    <megnev>Лінійка для гвинтів</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="256732375">
-    <megnev>Спиця Кіршнера</megnev>
-    <meret>3.2X375 MM</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="256737532">
-    <megnev>Спиця Кіршнера з різьбою</megnev>
-    <meret>3.2X375X10MM</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="257820004">
-    <megnev>Лоток TWX</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257830005">
-    <megnev>Лоток FWDA</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257900007">
-    <megnev>Імпактор</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257910002">
-    <megnev>Заглушка для крiплення</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257920003">
-    <megnev>Дистальний напрямляч - TWX</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257920004">
-    <megnev>Екстрактор</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257920008">
-    <megnev>Т-подібний ключ для гайки</megnev>
-    <meret>12 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257920009">
-    <megnev>Проксимальна направляюча рукоятка- TWX - A</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257920011">
-    <megnev>Дистальна направляюча рукоятка - TWX</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257920017">
-    <megnev>Обертаюча спiраль-TWX</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257920014">
-    <megnev>Спіральне свердло швидкого монтажу</megnev>
-    <meret>3,2х245 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="257920015">
-    <megnev>Спіральне свердло швидкого монтажу</megnev>
-    <meret>4,2х245 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="257930001">
-    <megnev>Проксимальна направляюча рукоятка- FWDA</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257930003">
-    <megnev>Дистальний напрямляч - FWDA</megnev>
-    <meret>9-15 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257930007">
-    <megnev>Дистальна направляюча рукоятка - FWDA - II</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257930008">
-    <megnev>Спіральне свердло</megnev>
-    <meret>6 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="257930009">
-    <megnev>Джерело сигналу  - II</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257930010">
-    <megnev>Датчик -II</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257930012">
-    <megnev>Блок живлення</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="257930015">
-    <megnev>Спіральне свердло швидкого монтажу</megnev>
-    <meret>4,2х245 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="257930016">
-    <megnev>Вимірювач довжини блокувальних гвинтів</megnev>
-    <meret>3,8-4,8 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258800003">
-    <megnev>Лоток для спіралі трохантера SpectruM</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258900001">
-    <megnev>Напрямляч - FIX - II</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258900002">
-    <megnev>Шило</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258900003">
-    <megnev>Напрямляч "вільні руки" - SpectruM Tro</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258900004">
-    <megnev>Імпактор</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258900005">
-    <megnev>Гнучка рукоятка</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258900007">
-    <megnev>Викрутка - адаптер</megnev>
-    <meret>3.5х105 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258900008">
-    <megnev>Т-подібна рукоятка</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258900009">
-    <megnev>Дистальний напрямляч - SpectruM Tro</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258900010">
-    <megnev>Спіральне свердло</megnev>
-    <meret>4.2х250 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="258900011">
-    <megnev>Спіральне свердло</megnev>
-    <meret>4.2х280 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="258900012">
-    <megnev>Конічноподібний ример</megnev>
-    <meret>16 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258900013">
-    <megnev>Протектор м'яких тканин</megnev>
-    <meret>16 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258900016">
-    <megnev>Вимірювач довжини блокувальних гвинтів </megnev>
-    <meret>4,8 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258925001">
-    <megnev>Імпактор – Спіраль - ІІ</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258925002">
-    <megnev>Стрижень з різьбовим кріпленням  – Спіраль - ІІ</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="258925003">
-    <megnev>Ступінчате свердло - Спірал - II.</megnev>
-    <meret>10.5/5 кан 3.2 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260815008">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>1,5x8 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260815009">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>1,5x9 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260815010">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>1,5x10 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260815011">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>1,5x11 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260815012">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>1,5x12 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260815013">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>1,5x13 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260815014">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>1,5x14 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260815015">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>1,5x15 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260815016">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>1,5x16 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260820010">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,0x10 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260820011">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,0x11 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260820012">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,0x12 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260820013">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,0x13 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260820014">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,0x14 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260820015">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,0x15 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260820016">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,0x16 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827108">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x8 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827110">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x10 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827112">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x12 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827113">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x13 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827114">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x14 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827115">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x15 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827116">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x16 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827117">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x17 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827118">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x18 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827119">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x19 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827120">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x20 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827121">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x21 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827122">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x22 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827124">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x24 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827126">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x26 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827128">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x28 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827130">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x30 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827132">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x32 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827134">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x34 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827136">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x36 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827138">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x38 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827140">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x40 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827142">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x42 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827144">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x44 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827146">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x46 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827148">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x48 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827150">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x50 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827152">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x52 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827154">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x54 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827156">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x56 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260827158">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>2,7x58 голівка 4 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835510">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x10 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835512">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x12 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835514">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x14 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835516">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x16 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835518">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x18 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835520">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x20 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835522">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x22 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835524">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x24 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835526">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x26 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835528">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x28 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835530">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x30 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835532">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x32 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835534">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x34 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835536">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x36 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835538">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x38 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835540">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x40 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835542">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x42 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835544">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x44 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835546">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x46 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835548">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x48 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260835550">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>3.5x50 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851034">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5.1x34 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851036">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5.1x36 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851038">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5.1x38 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851040">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5.1x40 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851042">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5.1x42 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851044">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5.1x44 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851046">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5.1x46 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851048">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5.1x48 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851050">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5.1x50 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851055">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5.1x55 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851060">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5.1x60 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851065">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5,1x65 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851070">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5,1x70 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="260851075">
-    <megnev>Гвинт Vortex</megnev>
-    <meret>5,1x75 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527008">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X8 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527010">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X10 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527012">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X12 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527014">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X14 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527016">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X16 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527018">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X18 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527020">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X20 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527022">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X22 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527024">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X24 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527026">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X26 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527028">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X28 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527030">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X30 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267527032">
-    <megnev>Кортикальний гвинт - TX</megnev>
-    <meret>2,7X32 голівка 4,5 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535012">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x12 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535014">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x14 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535016">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x16 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535018">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x18 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535020">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x20 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535022">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x22 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535024">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x24 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535026">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x26 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535028">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x28 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535030">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x30 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535032">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x32 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535034">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x34 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535035">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x35 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535036">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x36 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535038">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x38 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535040">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x40 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535042">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x42 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535044">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x44 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535045">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x45 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535046">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x46 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535048">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x48 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267535050">
-    <megnev>Кортикальний гвинт - TX   CL</megnev>
-    <meret>3,5x50 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267551032">
-    <megnev>Кортикальний гвинт - TX </megnev>
-    <meret>5,1x32 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267551034">
-    <megnev>Кортикальний гвинт - TX </megnev>
-    <meret>5,1x34 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267551036">
-    <megnev>Кортикальний гвинт - TX </megnev>
-    <meret>5,1x36 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267551038">
-    <megnev>Кортикальний гвинт - TX </megnev>
-    <meret>5,1x38 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="267551040">
-    <megnev>Кортикальний гвинт - TX </megnev>
-    <meret>5,1x40 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="275208901">
-    <megnev>Патрон для подвійного сверління  - V</megnev>
-    <meret>Міні</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="275212902">
-    <megnev>Патрон для подвійного сверління - V</megnev>
-    <meret>Малий</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="275214902">
-    <megnev>Патрон для подвійного сверління  - V</megnev>
-    <meret>Великий</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280114305">
-    <megnev>Дистальна пластина для променевої кістки Vortex - V+</megnev>
-    <meret>Середня ліва 5 H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280114405">
-    <megnev>Дистальна пластина для променевої кістки Vortex - V+</megnev>
-    <meret>Середня права 5 H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280114901">
-    <megnev>Інстумент для згинання пластини</megnev>
-    <meret>4 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280114902">
-    <megnev>Патрон для подвійного сверління  - PAS</megnev>
-    <meret>2 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280114903">
-    <megnev>Спіральне свердло швидкого монтажу</megnev>
-    <meret>2x125 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280114904">
-    <megnev>Спіральне свердло швидкого монтажу</megnev>
-    <meret>2x125 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280114905">
-    <megnev>Вимірювач довжини гвинтів</megnev>
-    <meret>2.7-3.5 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280115305">
-    <megnev>Дистальна пластина для променевої кістки Vortex - V</megnev>
-    <meret>Середня ліва 5 H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280115405">
-    <megnev>Дистальна пластина для променевої кістки Vortex - V</megnev>
-    <meret>Середня права 5 H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122510">
-    <megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
-    <meret>Ліва 10H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122512">
-    <megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
-    <meret>Ліва 12H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122514">
-    <megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
-    <meret>Ліва 14H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122610">
-    <megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
-    <meret>Права 10H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122612">
-    <megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
-    <meret>Права 12H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122614">
-    <megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
-    <meret>Права 14H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122704">
-    <megnev>Проксимальна пластина для великогомілкової кістки Vortex -  LT</megnev>
-    <meret>Ліва 4H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122706">
-    <megnev>Проксимальна пластина для великогомілкової кістки Vortex -  LT</megnev>
-    <meret>Ліва 6H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122804">
-    <megnev>Проксимальна пластина для великогомілкової кістки Vortex -  LT</megnev>
-    <meret>Права 4H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122806">
-    <megnev>Проксимальна пластина для великогомілкової кістки Vortex -  LT</megnev>
-    <meret>Права 6H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122903">
-    <megnev>Патрон для подвійного сверління  - PAS</megnev>
-    <meret>2.8 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280122904">
-    <megnev>Вимірювач довжини гвинтів</megnev>
-    <meret>8-60 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280122905">
-    <megnev>Спіральне свердло швидкого монтажу</megnev>
-    <meret>2,8x135 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122906">
-    <megnev>Спіральне свердло швидкого монтажу</megnev>
-    <meret>2,8x190 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280122907">
-    <megnev>Інструмент для згинання пластини</megnev>
-    <meret>6 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280122910">
-    <megnev>Патрон для подвійного сверління  - PAS</megnev>
-    <meret>4 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280122912">
-    <megnev>Вимірювач довжини гвинтів</megnev>
-    <meret>10-90 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280122914">
-    <megnev>Інстумент для згинання пластини - V</megnev>
-    <meret>6 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280122915">
-    <megnev>Спіральне свердло швидкого монтажу</megnev>
-    <meret>4x260 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123003">
-    <megnev>Проксимальна пластина для великогомілкової кістки Vortex - M</megnev>
-    <meret>3 H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123004">
-    <megnev>Проксимальна пластина для великогомілкової кістки Vortex - M</megnev>
-    <meret>4 H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123105">
-    <megnev>Проксимальна пластина для великогомілкової кістки Vortex - LAT - L</megnev>
-    <meret>Ліва 5H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123106">
-    <megnev>Проксимальна пластина для великогомілкової кістки Vortex - LAT - L</megnev>
-    <meret>Ліва 6H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123205">
-    <megnev>Проксимальна пластина для великогомілкової кістки Vortex - LAT - L</megnev>
-    <meret>Права 5H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123206">
-    <megnev>Проксимальна пластина для великогомілкової кістки Vortex - LAT - L</megnev>
-    <meret>Права 6H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123308">
-    <megnev>Дистальна пластина для великогомілкової кістки Vortex - AL</megnev>
-    <meret>Ліва 8H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123309">
-    <megnev>Дистальна пластина для великогомілкової кістки Vortex - AL</megnev>
-    <meret>Ліва 9H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123310">
-    <megnev>Дистальна пластина для великогомілкової кістки Vortex - AL</megnev>
-    <meret>Ліва 10H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123408">
-    <megnev>Дистальна пластина для великогомілкової кістки Vortex - AL</megnev>
-    <meret>Права 8H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123409">
-    <megnev>Дистальна пластина для великогомілкової кістки Vortex - AL</megnev>
-    <meret>Права 9H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123410">
-    <megnev>Дистальна пластина для великогомілкової кістки Vortex - AL</megnev>
-    <meret>Права 10H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123506">
-    <megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
-    <meret>Ліва 6H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123507">
-    <megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
-    <meret>Ліва 7H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123508">
-    <megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
-    <meret>Ліва 8H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123606">
-    <megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
-    <meret>Права 6H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123607">
-    <megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
-    <meret>Права 7H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280123608">
-    <megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
-    <meret>Права 8H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280260503">
-    <megnev>Пластина для ключиці Vortex - HK</megnev>
-    <meret>Мала ліва 3H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280260505">
-    <megnev>Пластина для ключиці Vortex - HK</megnev>
-    <meret>Мала ліва 5H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280260603">
-    <megnev>Пластина для ключиці Vortex - HK</megnev>
-    <meret>Мала права 3H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280260605">
-    <megnev>Пластина для ключиці Vortex - HK</megnev>
-    <meret>Мала права 5H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280261307">
-    <megnev>Пластина для ключиці Vortex</megnev>
-    <meret>Ліва 7H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280261308">
-    <megnev>Пластина для ключиці Vortex</megnev>
-    <meret>Ліва 8H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280261407">
-    <megnev>Пластина для ключиці Vortex</megnev>
-    <meret>Права 7H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280261408">
-    <megnev>Пластина для ключиці Vortex</megnev>
-    <meret>Права 8H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280302105">
-    <megnev>Дистальна пластина для плечьової кістки Vortex - DL</megnev>
-    <meret>Ліва 5H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280302107">
-    <megnev>Дистальна пластина для плечьової кістки Vortex - DL</megnev>
-    <meret>Ліва 7H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280302205">
-    <megnev>Дистальна пластина для плечьової кістки Vortex - DL</megnev>
-    <meret>Права 5H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280302207">
-    <megnev>Дистальна пластина для плечьової кістки Vortex - DL</megnev>
-    <meret>Права 7H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280302305">
-    <megnev>Дистальна пластина для плечьової кістки Vortex - M</megnev>
-    <meret>Ліва 5H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280302307">
-    <megnev>Дистальна пластина для плечьової кістки Vortex - M</megnev>
-    <meret>Ліва 7H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280302405">
-    <megnev>Дистальна пластина для плечьової кістки Vortex - M</megnev>
-    <meret>Права 5H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280302407">
-    <megnev>Дистальна пластина для плечьової кістки Vortex - M</megnev>
-    <meret>Права 7H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280303004">
-    <megnev>Проксимальна пластина для плечьової кістки Vortex </megnev>
-    <meret>4H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280303006">
-    <megnev>Проксимальна пластина для плечьової кістки Vortex </megnev>
-    <meret>6H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280303008">
-    <megnev>Проксимальна пластина для плечьової кістки Vortex </megnev>
-    <meret>8H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280303010">
-    <megnev>Проксимальна пластина для плечьової кістки Vortex </megnev>
-    <meret>10H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280323001">
-    <megnev>Пластина для п'ятки</megnev>
-    <meret>Мала</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280323002">
-    <megnev>Пластина для п'ятки</megnev>
-    <meret>Велика</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280410901">
-    <megnev>Патрон для подвійного сверління  - V</megnev>
-    <meret>1,1 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280410902">
-    <megnev>Патрон для подвійного сверління  - PAS</megnev>
-    <meret>1,1 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280410904">
-    <megnev>Вимірювач довжини гвинтів</megnev>
-    <meret>1,5-2 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280412505">
-    <megnev>Т-подібна пластина 1,5 XS</megnev>
-    <meret>Голівка 5Н, Ніжка 5 Н</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280412511">
-    <megnev>Т-подібна пластина 1,5 XS</megnev>
-    <meret>Голівка 5Н, Ніжка 11 Н</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280414008">
-    <megnev>Опорна пластина 1,5 XS</megnev>
-    <meret>8H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280414012">
-    <megnev>Опорна пластина 1,5 XS</megnev>
-    <meret>12H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280414016">
-    <megnev>Опорна пластина 1,5 XS</megnev>
-    <meret>16H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280420901">
-    <megnev>Патрон для подвійного сверління  - V</megnev>
-    <meret>1,5 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280420902">
-    <megnev>Патрон для подвійного сверління  - PAS</megnev>
-    <meret>1,5 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="280422505">
-    <megnev>T-подібна пластина 2,0 XS</megnev>
-    <meret>Голівка 5Н, Ніжка 5 Н</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280422511">
-    <megnev>T-подібна пластина 2,0 XS</megnev>
-    <meret>Голівка 5Н, Ніжка 11 Н</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280424008">
-    <megnev>Опорна пластина 2,0 XS</megnev>
-    <meret>8H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280424012">
-    <megnev>Опорна пластина 2,0 XS</megnev>
-    <meret>12H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280424016">
-    <megnev>Опорна пластина 2,0 XS</megnev>
-    <meret>16H</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280432505">
-    <megnev>T-подібна пластина міні</megnev>
-    <meret>Голівка 5Н, Ніжка 5 Н</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="280432511">
-    <megnev>T-подібна пластина міні</megnev>
-    <meret>Голівка 5Н, Ніжка 11 Н</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297209285">
-    <megnev>Стержень для великогомілкової кістки - TWXE</megnev>
-    <meret>9х285 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297209300">
-    <megnev>Стержень для великогомілкової кістки - TWXE</megnev>
-    <meret>9х300 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297209315">
-    <megnev>Стержень для великогомілкової кістки - TWXE</megnev>
-    <meret>9х315 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297209330">
-    <megnev>Стержень для великогомілкової кістки - TWXE</megnev>
-    <meret>9х330 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297209345">
-    <megnev>Стержень для великогомілкової кістки - TWXE</megnev>
-    <meret>9х345 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297210285">
-    <megnev>Стержень для великогомілкової кістки - TWXE</megnev>
-    <meret>10х285 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297210300">
-    <megnev>Стержень для великогомілкової кістки - TWXE</megnev>
-    <meret>10х300 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297210315">
-    <megnev>Стержень для великогомілкової кістки - TWXE</megnev>
-    <meret>10х315 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297210330">
-    <megnev>Стержень для великогомілкової кістки - TWXE</megnev>
-    <meret>10х330 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297210345">
-    <megnev>Стержень для великогомілкової кістки - TWXE</megnev>
-    <meret>10х345 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297310340">
-    <megnev>Стержень для стегнової кістки SpectruM </megnev>
-    <meret>10х340 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297310360">
-    <megnev>Стержень для стегнової кістки SpectruM </megnev>
-    <meret>10х360 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297310380">
-    <megnev>Стержень для стегнової кістки SpectruM </megnev>
-    <meret>10х380 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297310400">
-    <megnev>Стержень для стегнової кістки SpectruM </megnev>
-    <meret>10х400 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297311340">
-    <megnev>Стержень для стегнової кістки SpectruM </megnev>
-    <meret>11х340 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297311360">
-    <megnev>Стержень для стегнової кістки SpectruM </megnev>
-    <meret>11х360 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297311380">
-    <megnev>Стержень для стегнової кістки SpectruM </megnev>
-    <meret>11х380 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297311400">
-    <megnev>Стержень для стегнової кістки SpectruM </megnev>
-    <meret>11х400 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="297400001">
-    <megnev>Заглушка</megnev>
-    <meret></meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="364048035">
-    <megnev>Блокуючий гвинт</megnev>
-    <meret>4,8х35 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="364048040">
-    <megnev>Блокуючий гвинт</megnev>
-    <meret>4,8х40 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="364048045">
-    <megnev>Блокуючий гвинт</megnev>
-    <meret>4,8х45 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="364048050">
-    <megnev>Блокуючий гвинт</megnev>
-    <meret>4,8х50 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="364048055">
-    <megnev>Блокуючий гвинт</megnev>
-    <meret>4,8х55 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="394325090">
-    <megnev>Спіраль SpectruM для трохантера</megnev>
-    <meret>10,5X90MM STRONG</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="394325100">
-    <megnev>Спіраль SpectruM для трохантера</megnev>
-    <meret>10,5X100MM STRONG</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="394325110">
-    <megnev>Спіраль SpectruM для трохантера</megnev>
-    <meret>10,5X110MM STRONG</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="394325120">
-    <megnev>Спіраль SpectruM для трохантера</megnev>
-    <meret>10,5X120MM STRONG</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="398400001">
-    <megnev>Кінцева заглушка SpectruM для трохантера</megnev>
-    <meret></meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="398510130">
-    <megnev>Cтержень для трохантера SpectruM</megnev>
-    <meret>10х220 мм 130° Strong - II</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="398510318">
-    <megnev>Cтержень для трохантера SpectruM</megnev>
-    <meret>10х180 мм 130° Strong - II</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="398510320">
-    <megnev>Cтержень для трохантера SpectruM</megnev>
-    <meret>10х200 мм 130° Strong - II</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="398510324">
-    <megnev>Cтержень для трохантера SpectruM</megnev>
-    <meret>10х240 мм 130° Strong - II</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="398511130">
-    <megnev>Cтержень для трохантера SpectruM</megnev>
-    <meret>11х220 мм 130° Strong - II</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="398511318">
-    <megnev>Cтержень для трохантера SpectruM</megnev>
-    <meret>11х180 мм 130° Strong - II</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="398511320">
-    <megnev>Cтержень для трохантера SpectruM</megnev>
-    <meret>11х200 мм 130° Strong - II</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="398511324">
-    <megnev>Cтержень для трохантера SpectruM</megnev>
-    <meret>11х240 мм 130° Strong - II</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="922148030">
-    <megnev>Блокуючий гвинт, титан</megnev>
-    <meret>4,8X30MM</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="922148035">
-    <megnev>Блокуючий гвинт, титан</megnev>
-    <meret>4,8X35MM</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="922148040">
-    <megnev>Блокуючий гвинт, титан</megnev>
-    <meret>4,8X40MM</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="922148045">
-    <megnev>Блокуючий гвинт, титан</megnev>
-    <meret>4,8X45MM</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="922148050">
-    <megnev>Блокуючий гвинт, титан</megnev>
-    <meret>4,8X50MM</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="928700008">
-    <megnev>Конічна заглушка, титан</megnev>
-    <meret>8 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="929990258">
-    <megnev>Ключ для гайки</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="937511080">
-    <megnev>Спиця Кіршнера</megnev>
-    <meret>1,1x80 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="937512100">
-    <megnev>Спиця Кіршнера</megnev>
-    <meret>1,2x100 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="937515100">
-    <megnev>Спиця Кіршнера</megnev>
-    <meret>1,5x100 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="937516150">
-    <megnev>Спиця Кіршнера</megnev>
-    <meret>1,6x150 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="937520150">
-    <megnev>Спиця Кіршнера</megnev>
-    <meret>2x150 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="937520210">
-    <megnev>Спиця Кіршнера</megnev>
-    <meret>2x210 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="937520230">
-    <megnev>Спиця Кіршнера</megnev>
-    <meret>2x230 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="939511060">
-    <megnev>Спіральне свердло швидкого монтажу</megnev>
-    <meret>1,1x60 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="939515110">
-    <megnev>Спіральне свердло швидкого монтажу</megnev>
-    <meret>1,5x110 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="939532310">
-    <megnev>Спіральне свердло швидкого монтажу</megnev>
-    <meret>3,2х310 мм</meret>
-    <osztaly></osztaly>
-  </cimke>
-  <cimke name="939999012">
-    <megnev>Шило</megnev>
-    <meret>10 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="939999072">
-    <megnev>Лінійка</megnev>
-    <meret>500 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="939999076">
-    <megnev>Напрямляч</megnev>
-    <meret>3х1000 мм</meret>
-    <osztaly>I.</osztaly>
-  </cimke>
-  <cimke name="939999083">
-    <megnev>Імпактор для інтрамедулярних стержнів</megnev>
-    <meret></meret>
-    <osztaly>I.</osztaly>
-  </cimke>
+ <cimke name="210510002">
+<megnev>Викрутка</megnev>
+<meret>3,5 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210510017">
+<megnev>Шило</megnev>
+<meret>10 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210510021">
+<megnev>Викрутка</megnev>
+<meret>8 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210510030">
+<megnev>Молоток</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210510032">
+<megnev>Напрямляч</megnev>
+<meret>2,7х900 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210510036">
+<megnev>Динамометрична викрутка</megnev>
+<meret> T9 / 1 Нм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210510044">
+<megnev>Динамометрична викрутка</megnev>
+<meret>T15 / 1.5 Нм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210510046">
+<megnev>Динамометрична викрутка</megnev>
+<meret>T25 / 3.5 Нм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210510056">
+<megnev>Динамометрична викрутка</megnev>
+<meret> TA7 / 0.2 Нм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210510242">
+<megnev>Стопор свердла</megnev>
+<meret>4,2 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210700035">
+<megnev>Викрутка</megnev>
+<meret>3.5 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210720007">
+<megnev>Викрутка</megnev>
+<meret>TA7</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210720009">
+<megnev>Викрутка</megnev>
+<meret>T9</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210720015">
+<megnev>Викрутка</megnev>
+<meret>T15</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210720025">
+<megnev>Викрутка</megnev>
+<meret>T25</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="210904004">
+<megnev>Напрямляч з оливоподібною голівкою</megnev>
+<meret>4/3x900 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="240300904">
+<megnev>Спіральне свердло швидкого монтажу</megnev>
+<meret>2,8x165 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="251910008">
+<megnev>Ключ для гайки</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="254900020">
+<megnev>Лінійка для гвинтів</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="256732375">
+<megnev>Спиця Кіршнера</megnev>
+<meret>3.2X375 MM</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="256737532">
+<megnev>Спиця Кіршнера з різьбою</megnev>
+<meret>3.2X375X10MM</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="257820004">
+<megnev>Лоток TWX</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257830005">
+<megnev>Лоток FWDA</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257900007">
+<megnev>Імпактор</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257910002">
+<megnev>Заглушка для крiплення</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257920003">
+<megnev>Дистальний напрямляч - TWX</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257920004">
+<megnev>Екстрактор</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257920008">
+<megnev>Т-подібний ключ для гайки</megnev>
+<meret>12 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257920009">
+<megnev>Проксимальна направляюча рукоятка- TWX - A</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257920011">
+<megnev>Дистальна направляюча рукоятка - TWX</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257920017">
+<megnev>Обертаюча спiраль</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257920014">
+<megnev>Спіральне свердло швидкого монтажу</megnev>
+<meret>3,2х245 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="257920015">
+<megnev>Спіральне свердло швидкого монтажу</megnev>
+<meret>4,2х245 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="257930001">
+<megnev>Проксимальна направляюча рукоятка- FWDA</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257930003">
+<megnev>Дистальний напрямляч - FWDA</megnev>
+<meret>9-15 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257930007">
+<megnev>Дистальна направляюча рукоятка - FWDA - II</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257930008">
+<megnev>Спіральне свердло</megnev>
+<meret>6 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="257930009">
+<megnev>Джерело сигналу  - II</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257930010">
+<megnev>Датчик -II</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257930012">
+<megnev>Блок живлення</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="257930015">
+<megnev>Спіральне свердло швидкого монтажу</megnev>
+<meret>4,2х245 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="257930016">
+<megnev>Вимірювач довжини блокувальних гвинтів</megnev>
+<meret>3,8-4,8 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258800003">
+<megnev>Лоток для спіралі трохантера SpectruM</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258900001">
+<megnev>Напрямляч - FIX - II</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258900002">
+<megnev>Шило</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258900003">
+<megnev>Напрямляч "вільні руки" - SpectruM Tro</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258900004">
+<megnev>Імпактор</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258900005">
+<megnev>Гнучка рукоятка</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258900007">
+<megnev>Викрутка - адаптер</megnev>
+<meret>3.5х105 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258900008">
+<megnev>Т-подібна рукоятка</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258900009">
+<megnev>Дистальний напрямляч - SpectruM Tro</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258900010">
+<megnev>Спіральне свердло</megnev>
+<meret>4.2х250 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="258900011">
+<megnev>Спіральне свердло</megnev>
+<meret>4.2х280 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="258900012">
+<megnev>Конічноподібний ример</megnev>
+<meret>16 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258900013">
+<megnev>Протектор м'яких тканин</megnev>
+<meret>16 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258900016">
+<megnev>Вимірювач довжини блокувальних гвинтів </megnev>
+<meret>4,8 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258925001">
+<megnev>Імпактор – Спіраль - ІІ</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258925002">
+<megnev>Стрижень з різьбовим кріпленням  – Спіраль - ІІ</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="258925003">
+<megnev>Ступінчате свердло - Спірал - II.</megnev>
+<meret>10.5/5 кан 3.2 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260815008">
+<megnev>Гвинт Vortex</megnev>
+<meret>1,5x8 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260815009">
+<megnev>Гвинт Vortex</megnev>
+<meret>1,5x9 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260815010">
+<megnev>Гвинт Vortex</megnev>
+<meret>1,5x10 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260815011">
+<megnev>Гвинт Vortex</megnev>
+<meret>1,5x11 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260815012">
+<megnev>Гвинт Vortex</megnev>
+<meret>1,5x12 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260815013">
+<megnev>Гвинт Vortex</megnev>
+<meret>1,5x13 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260815014">
+<megnev>Гвинт Vortex</megnev>
+<meret>1,5x14 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260815015">
+<megnev>Гвинт Vortex</megnev>
+<meret>1,5x15 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260815016">
+<megnev>Гвинт Vortex</megnev>
+<meret>1,5x16 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260820010">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,0x10 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260820011">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,0x11 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260820012">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,0x12 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260820013">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,0x13 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260820014">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,0x14 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260820015">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,0x15 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260820016">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,0x16 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827108">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x8 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827110">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x10 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827112">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x12 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827113">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x13 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827114">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x14 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827115">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x15 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827116">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x16 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827117">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x17 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827118">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x18 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827119">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x19 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827120">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x20 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827121">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x21 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827122">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x22 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827124">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x24 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827126">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x26 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827128">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x28 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827130">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x30 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827132">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x32 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827134">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x34 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827136">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x36 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827138">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x38 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827140">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x40 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827142">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x42 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827144">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x44 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827146">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x46 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827148">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x48 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827150">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x50 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827152">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x52 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827154">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x54 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827156">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x56 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827158">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x58 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835510">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x10 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835512">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x12 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835514">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x14 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835516">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x16 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835518">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x18 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835520">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x20 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835522">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x22 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835524">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x24 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835526">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x26 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835528">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x28 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835530">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x30 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835532">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x32 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835534">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x34 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835536">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x36 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835538">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x38 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835540">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x40 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835542">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x42 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835544">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x44 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835546">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x46 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835548">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x48 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835550">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x50 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851034">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x34 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851036">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x36 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851038">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x38 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851040">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x40 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851042">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x42 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851044">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x44 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851046">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x46 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851048">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x48 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851050">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x50 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851055">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x55 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851060">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x60 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851065">
+<megnev>Гвинт Vortex</megnev>
+<meret>5,1x65 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851070">
+<megnev>Гвинт Vortex</megnev>
+<meret>5,1x70 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851075">
+<megnev>Гвинт Vortex</megnev>
+<meret>5,1x75 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527008">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X8 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527010">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X10 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527012">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X12 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527014">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X14 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527016">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X16 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527018">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X18 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527020">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X20 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527022">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X22 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527024">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X24 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527026">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X26 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527028">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X28 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527030">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X30 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527032">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X32 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535012">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x12 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535014">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x14 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535016">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x16 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535018">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x18 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535020">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x20 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535022">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x22 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535024">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x24 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535026">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x26 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535028">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x28 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535030">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x30 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535032">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x32 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535034">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x34 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535035">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x35 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535036">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x36 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535038">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x38 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535040">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x40 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535042">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x42 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535044">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x44 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535045">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x45 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535046">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x46 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535048">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x48 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535050">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x50 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267551032">
+<megnev>Кортикальний гвинт - TX </megnev>
+<meret>5,1x32 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267551034">
+<megnev>Кортикальний гвинт - TX </megnev>
+<meret>5,1x34 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267551036">
+<megnev>Кортикальний гвинт - TX </megnev>
+<meret>5,1x36 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267551038">
+<megnev>Кортикальний гвинт - TX </megnev>
+<meret>5,1x38 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267551040">
+<megnev>Кортикальний гвинт - TX </megnev>
+<meret>5,1x40 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="275208901">
+<megnev>Патрон для подвійного сверління  - V</megnev>
+<meret>Міні</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="275212902">
+<megnev>Патрон для подвійного сверління - V</megnev>
+<meret>Малий</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="275214902">
+<megnev>Патрон для подвійного сверління  - V</megnev>
+<meret>Великий</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280114305">
+<megnev>Дистальна пластина для променевої кістки Vortex - V+</megnev>
+<meret>Середня ліва 5 H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280114405">
+<megnev>Дистальна пластина для променевої кістки Vortex - V+</megnev>
+<meret>Середня права 5 H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280114901">
+<megnev>Інстумент для згинання пластини</megnev>
+<meret>4 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280114902">
+<megnev>Патрон для подвійного сверління  - PAS</megnev>
+<meret>2 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280114903">
+<megnev>Спіральне свердло швидкого монтажу</megnev>
+<meret>2x125 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280114904">
+<megnev>Спіральне свердло швидкого монтажу</megnev>
+<meret>2x125 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280114905">
+<megnev>Вимірювач довжини гвинтів</megnev>
+<meret>2.7-3.5 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280115305">
+<megnev>Дистальна пластина для промеревої кістки Vortex - V</megnev>
+<meret>Середня ліва 5 H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280115405">
+<megnev>Дистальна пластина для промеревої кістки Vortex - V</megnev>
+<meret>Середня права 5 H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122510">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>Ліва 10H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122512">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>Ліва 12H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122514">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>Ліва 14H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122610">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>Права 10H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122612">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>Права 12H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122614">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>Права 14H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122704">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex -  LT</megnev>
+<meret>Ліва 4H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122706">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex -  LT</megnev>
+<meret>Ліва 6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122804">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex -  LT</megnev>
+<meret>Права 4H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122806">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex -  LT</megnev>
+<meret>Права 6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122903">
+<megnev>Патрон для подвійного сверління  - PAS</megnev>
+<meret>2.8 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280122904">
+<megnev>Вимірювач довжини гвинтів</megnev>
+<meret>8-60 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280122905">
+<megnev>Спіральне свердло швидкого монтажу</megnev>
+<meret>2,8x135 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122906">
+<megnev>Спіральне свердло швидкого монтажу</megnev>
+<meret>2,8x190 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122907">
+<megnev>Інструмент для згинання пластини</megnev>
+<meret>6 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280122910">
+<megnev>Патрон для подвійного сверління  - PAS</megnev>
+<meret>4 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280122912">
+<megnev>Вимірювач довжини гвинтів</megnev>
+<meret>10-90 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280122914">
+<megnev>Інстумент для згинання пластини - V</megnev>
+<meret>6 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280122915">
+<megnev>Спіральне свердло швидкого монтажу</megnev>
+<meret>4x260 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123003">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>3 H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123004">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>4 H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123105">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex - LAT - L</megnev>
+<meret>Ліва 5H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123106">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex - LAT - L</megnev>
+<meret>Ліва 6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123205">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex - LAT - L</megnev>
+<meret>Права 5H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123206">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex - LAT - L</megnev>
+<meret>Права 6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123308">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - AL</megnev>
+<meret>Ліва 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123309">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - AL</megnev>
+<meret>Ліва 9H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123310">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - AL</megnev>
+<meret>Ліва 10H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123408">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - AL</megnev>
+<meret>Права 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123409">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - AL</megnev>
+<meret>Права 9H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123410">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - AL</megnev>
+<meret>Права 10H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123506">
+<megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
+<meret>Ліва 6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123507">
+<megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
+<meret>Ліва 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123508">
+<megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
+<meret>Ліва 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123606">
+<megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
+<meret>Права 6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123607">
+<megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
+<meret>Права 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123608">
+<megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
+<meret>Права 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280260503">
+<megnev>Пластина для ключиці Vortex - HK</megnev>
+<meret>Мала ліва 3H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280260505">
+<megnev>Пластина для ключиці Vortex - HK</megnev>
+<meret>Мала ліва 5H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280260603">
+<megnev>Пластина для ключиці Vortex - HK</megnev>
+<meret>Мала права 3H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280260605">
+<megnev>Пластина для ключиці Vortex - HK</megnev>
+<meret>Мала права 5H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261307">
+<megnev>Пластина для ключиці Vortex</megnev>
+<meret>Ліва 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261308">
+<megnev>Пластина для ключиці Vortex</megnev>
+<meret>Ліва 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261407">
+<megnev>Пластина для ключиці Vortex</megnev>
+<meret>Права 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261408">
+<megnev>Пластина для ключиці Vortex</megnev>
+<meret>Права 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302105">
+<megnev>Дистальна пластина для плечьової кістки Vortex - DL</megnev>
+<meret>Ліва 5H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302107">
+<megnev>Дистальна пластина для плечьової кістки Vortex - DL</megnev>
+<meret>Ліва 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302205">
+<megnev>Дистальна пластина для плечьової кістки Vortex - DL</megnev>
+<meret>Права 5H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302207">
+<megnev>Дистальна пластина для плечьової кістки Vortex - DL</megnev>
+<meret>Права 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302305">
+<megnev>Дистальна пластина для плечьової кістки Vortex - M</megnev>
+<meret>Ліва 5H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302307">
+<megnev>Дистальна пластина для плечьової кістки Vortex - M</megnev>
+<meret>Ліва 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302405">
+<megnev>Дистальна пластина для плечьової кістки Vortex - M</megnev>
+<meret>Права 5H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302407">
+<megnev>Дистальна пластина для плечьової кістки Vortex - M</megnev>
+<meret>Права 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280303004">
+<megnev>Проксимальна пластина для плечьової кістки Vortex </megnev>
+<meret>4H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280303006">
+<megnev>Проксимальна пластина для плечьової кістки Vortex </megnev>
+<meret>6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280303008">
+<megnev>Проксимальна пластина для плечьової кістки Vortex </megnev>
+<meret>8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280303010">
+<megnev>Проксимальна пластина для плечьової кістки Vortex </megnev>
+<meret>10H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280323001">
+<megnev>Пластина для п'ятки</megnev>
+<meret>Мала</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280323002">
+<megnev>Пластина для п'ятки</megnev>
+<meret>Велика</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280410901">
+<megnev>Патрон для подвійного сверління  - V</megnev>
+<meret>1,1 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280410902">
+<megnev>Патрон для подвійного сверління  - PAS</megnev>
+<meret>1,1 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280410904">
+<megnev>Вимірювач довжини гвинтів</megnev>
+<meret>1,5-2 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280412505">
+<megnev>Т-подібна пластина 1,5 XS</megnev>
+<meret>Голівка 5Н, Ніжка 5 Н</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280412511">
+<megnev>Т-подібна пластина 1,5 XS</megnev>
+<meret>Голівка 5Н, Ніжка 11 Н</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280414008">
+<megnev>Опорна пластина 1,5 XS</megnev>
+<meret>8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280414012">
+<megnev>Опорна пластина 1,5 XS</megnev>
+<meret>12H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280414016">
+<megnev>Опорна пластина 1,5 XS</megnev>
+<meret>16H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280420901">
+<megnev>Патрон для подвійного сверління  - V</megnev>
+<meret>1,5 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280420902">
+<megnev>Патрон для подвійного сверління  - PAS</megnev>
+<meret>1,5 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280422505">
+<megnev>T-подібна пластина 2,0 XS</megnev>
+<meret>Голівка 5Н, Ніжка 5 Н</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280422511">
+<megnev>T-подібна пластина 2,0 XS</megnev>
+<meret>Голівка 5Н, Ніжка 11 Н</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280424008">
+<megnev>Опорна пластина 2,0 XS</megnev>
+<meret>8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280424012">
+<megnev>Опорна пластина 2,0 XS</megnev>
+<meret>12H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280424016">
+<megnev>Опорна пластина 2,0 XS</megnev>
+<meret>16H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280432505">
+<megnev>T-подібна пластина міні</megnev>
+<meret>Голівка 5Н, Ніжка 5 Н</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280432511">
+<megnev>T-подібна пластина міні</megnev>
+<meret>Голівка 5Н, Ніжка 11 Н</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297209285">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>9х285 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297209300">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>9х300 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297209315">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>9х315 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297209330">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>9х330 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297209345">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>9х345 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297210285">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>10х285 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297210300">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>10х300 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297210315">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>10х315 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297210330">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>10х330 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297210345">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>10х345 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297310340">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>10х340 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297310360">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>10х360 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297310380">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>10х380 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297310400">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>10х400 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297311340">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>11х340 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297311360">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>11х360 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297311380">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>11х380 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297311400">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>11х400 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297400001">
+<megnev>Заглушка</megnev>
+<meret></meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="364048035">
+<megnev>Блокуючий гвинт</megnev>
+<meret>4,8х35 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="364048040">
+<megnev>Блокуючий гвинт</megnev>
+<meret>4,8х40 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="364048045">
+<megnev>Блокуючий гвинт</megnev>
+<meret>4,8х45 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="364048050">
+<megnev>Блокуючий гвинт</megnev>
+<meret>4,8х50 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="364048055">
+<megnev>Блокуючий гвинт</megnev>
+<meret>4,8х55 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="394325090">
+<megnev>Спіраль SpectruM для трохантера</megnev>
+<meret>10,5X90MM STRONG</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="394325100">
+<megnev>Спіраль SpectruM для трохантера</megnev>
+<meret>10,5X100MM STRONG</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="394325110">
+<megnev>Спіраль SpectruM для трохантера</megnev>
+<meret>10,5X110MM STRONG</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="394325120">
+<megnev>Спіраль SpectruM для трохантера</megnev>
+<meret>10,5X120MM STRONG</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398400001">
+<megnev>Кінцева заглушка SpectruM для трохантера</megnev>
+<meret></meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398510130">
+<megnev>Cтержень для трохантера SpectruM</megnev>
+<meret>10х220 мм 130° Strong - II</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398510318">
+<megnev>Cтержень для трохантера SpectruM</megnev>
+<meret>10х180 мм 130° Strong - II</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398510320">
+<megnev>Cтержень для трохантера SpectruM</megnev>
+<meret>10х200 мм 130° Strong - II</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398510324">
+<megnev>Cтержень для трохантера SpectruM</megnev>
+<meret>10х240 мм 130° Strong - II</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398511130">
+<megnev>Cтержень для трохантера SpectruM</megnev>
+<meret>11х220 мм 130° Strong - II</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398511318">
+<megnev>Cтержень для трохантера SpectruM</megnev>
+<meret>11х180 мм 130° Strong - II</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398511320">
+<megnev>Cтержень для трохантера SpectruM</megnev>
+<meret>11х200 мм 130° Strong - II</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398511324">
+<megnev>Cтержень для трохантера SpectruM</megnev>
+<meret>11х240 мм 130° Strong - II</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="922148030">
+<megnev>Блокуючий гвинт, титан</megnev>
+<meret>4,8X30MM</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="922148035">
+<megnev>Блокуючий гвинт, титан</megnev>
+<meret>4,8X35MM</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="922148040">
+<megnev>Блокуючий гвинт, титан</megnev>
+<meret>4,8X40MM</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="922148045">
+<megnev>Блокуючий гвинт, титан</megnev>
+<meret>4,8X45MM</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="922148050">
+<megnev>Блокуючий гвинт, титан</megnev>
+<meret>4,8X50MM</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="928700008">
+<megnev>Конічна заглушка, титан</megnev>
+<meret>8 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="929990258">
+<megnev>Ключ для гайки</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="937511080">
+<megnev>Спиця Кіршнера</megnev>
+<meret>1,1x80 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="937512100">
+<megnev>Спиця Кіршнера</megnev>
+<meret>1,2x100 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="937515100">
+<megnev>Спиця Кіршнера</megnev>
+<meret>1,5x100 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="937516150">
+<megnev>Спиця Кіршнера</megnev>
+<meret>1,6x150 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="937520150">
+<megnev>Спиця Кіршнера</megnev>
+<meret>2x150 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="937520210">
+<megnev>Спиця Кіршнера</megnev>
+<meret>2x210 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="937520230">
+<megnev>Спиця Кіршнера</megnev>
+<meret>2x230 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="939511060">
+<megnev>Спіральне свердло швидкого монтажу</megnev>
+<meret>1,1x60 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="939515110">
+<megnev>Спіральне свердло швидкого монтажу</megnev>
+<meret>1,5x110 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="939532310">
+<megnev>Спіральне свердло швидкого монтажу</megnev>
+<meret>3,2х310 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="939999012">
+<megnev>Шило</megnev>
+<meret>10 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="939999072">
+<megnev>Лінійка</megnev>
+<meret>500 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="939999076">
+<megnev>Напрямляч</megnev>
+<meret>3х1000 мм</meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="939999083">
+<megnev>Імпактор для інтрамедулярних стержнів</megnev>
+<meret></meret>
+<osztaly>I.</osztaly>
+</cimke>
+<cimke name="280261407">
+<megnev>Пластина для ключиці Vortex</megnev>
+<meret>Права 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261607">
+<megnev>Пластина для ключиці Vortex - H</megnev>
+<meret>Права 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280260615">
+<megnev>Пластина для ключиці Vortex - HK</megnev>
+<meret>Середня права 5H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261708">
+<megnev>Пластина для ключиці Vortex - MA</megnev>
+<meret>8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280303010">
+<megnev>Проксимальна пластина для плечьової кістки Vortex </megnev>
+<meret>10H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302203">
+<megnev>Дистальна пластина для плечьової кістки Vortex - DL</megnev>
+<meret>Права 3H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302211">
+<megnev>Дистальна пластина для плечьової кістки Vortex - DL</megnev>
+<meret>Права 11H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302403">
+<megnev>Дистальна пластина для плечьової кістки Vortex - M</megnev>
+<meret>Права 3H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302409">
+<megnev>Дистальна пластина для плечьової кістки Vortex - M</megnev>
+<meret>Права 9H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280220411">
+<megnev>Пластина для ліктьового відростку Vortex</megnev>
+<meret>Права 11H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280114403">
+<megnev>Дистальна пластина для променевої кістки Vortex - V+</megnev>
+<meret>Середня права 3 H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280115403">
+<megnev>Дистальна пластина для променевої кістки Vortex - V</megnev>
+<meret>Середня права 3 H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123007">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>7 H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122806">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex -  LT</megnev>
+<meret>Права 6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123107">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex - LAT - L</megnev>
+<meret>Ліва 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123208">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex - LAT - L</megnev>
+<meret>Права 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122610">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>Права 10H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123504">
+<megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
+<meret>Ліва 4H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123608">
+<megnev>Дистальна пластина для малогомілкової кістки Vortex </megnev>
+<meret>Права 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280323001">
+<megnev>Пластина для п'ятки</megnev>
+<meret>Мала</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280323002">
+<megnev>Пластина для п'ятки</megnev>
+<meret>Велика</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280412505">
+<megnev>Т-подібна пластина 1,5 XS</megnev>
+<meret>Голівка 5Н, Ніжка 5 Н</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280412511">
+<megnev>Т-подібна пластина 1,5 XS</megnev>
+<meret>Голівка 5Н, Ніжка 11 Н</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280422505">
+<megnev>T-подібна пластина 2,0 XS</megnev>
+<meret>Голівка 5Н, Ніжка5Н</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280422511">
+<megnev>T-подібна пластина 2,0 XS</megnev>
+<meret>Голівка 5Н, Ніжка11Н</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280424006">
+<megnev>Опорна пластина 2,0 XS</megnev>
+<meret>6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280424012">
+<megnev>Опорна пластина 2,0 XS</megnev>
+<meret>12H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280432305">
+<megnev>T-подібна пластина міні</megnev>
+<meret>Голівка 3Н, Ніжка 5 Н</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280432311">
+<megnev>T-подібна пластина міні</megnev>
+<meret>Голівка 3Н, Ніжка 11 Н</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827120">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x20 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827122">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x22 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827124">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x24 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827126">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x26 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827128">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x28 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827130">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x30 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527020">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X20 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527022">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X22 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527024">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X24 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527026">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X26 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527028">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X28 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527030">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X30 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835530">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x30 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835532">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x32 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835534">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x34 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835536">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x36 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835538">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x38 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260835540">
+<megnev>Гвинт Vortex</megnev>
+<meret>3.5x40 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535030">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x30 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535032">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x32 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535034">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x34 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535036">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x36 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535038">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x38 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267535040">
+<megnev>Кортикальний гвинт - TX   CL</megnev>
+<meret>3,5x40 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851032">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x32 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851034">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x34 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851036">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x36 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851038">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x38 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260851040">
+<megnev>Гвинт Vortex</megnev>
+<meret>5.1x40 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267551032">
+<megnev>Кортикальний гвинт - TX </megnev>
+<meret>5,1x32 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267551034">
+<megnev>Кортикальний гвинт - TX </megnev>
+<meret>5,1x34 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267551036">
+<megnev>Кортикальний гвинт - TX </megnev>
+<meret>5,1x36 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267551038">
+<megnev>Кортикальний гвинт - TX </megnev>
+<meret>5,1x38 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267551040">
+<megnev>Кортикальний гвинт - TX </megnev>
+<meret>5,1x40 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260815014">
+<megnev>Гвинт Vortex</megnev>
+<meret>1,5x14 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260815016">
+<megnev>Гвинт Vortex</megnev>
+<meret>1,5x16 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260815018">
+<megnev>Гвинт Vortex</megnev>
+<meret>1,5x18 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267515014">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>1,5x14 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267515016">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>1,5x16 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267515018">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>1,5x18 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260820014">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,0x14 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260820016">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,0x16 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260820018">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,0x18 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260820020">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,0x20 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267520014">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,0x14 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267520016">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,0x16 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267520018">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,0x18 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267520020">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,0x20 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827114">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x14 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827116">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x16 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="260827118">
+<megnev>Гвинт Vortex</megnev>
+<meret>2,7x18 голівка 4 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527014">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X14 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527016">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X16 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="267527018">
+<megnev>Кортикальний гвинт - TX</megnev>
+<meret>2,7X18 голівка 4,5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297209390">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>9х390 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297210345">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>10х345 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297400001">
+<megnev>Заглушка</megnev>
+<meret></meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297310340">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>10х340 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297311380">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>11х380 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="938700008">
+<megnev>Конічна заглушка для інтрамедулярного стержня</megnev>
+<meret>8 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398511320">
+<megnev>Cтержень для трохантера SpectruM</megnev>
+<meret>11х200 мм 130° </meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398731340">
+<megnev>Cтержень для трохантера SpectruM</megnev>
+<meret>Правий 11х340 мм 130° </meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398400001">
+<megnev>Кінцева заглушка SpectruM для трохантера</megnev>
+<meret></meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="394325110">
+<megnev>Спіраль SpectruM для трохантера</megnev>
+<meret>10,5X110MM STRONG</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="364048030">
+<megnev>Блокуючий гвинт</megnev>
+<meret>4,8х30 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="922148035">
+<megnev>Блокуючий гвинт, титан</megnev>
+<meret>4,8X35MM</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="922148045">
+<megnev>Блокуючий гвинт, титан</megnev>
+<meret>4,8X45MM</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="204220002">
+<megnev>Фіксований гвинт</megnev>
+<meret>9мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="204224530">
+<megnev>Поліаксіальний гвинт</megnev>
+<meret>4,5x30 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="204225050">
+<megnev>Поліаксіальний гвинт</megnev>
+<meret>5x50 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="204225545">
+<megnev>Поліаксіальний гвинт</megnev>
+<meret>5,5x45 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="204226045">
+<megnev>Поліаксіальний гвинт</megnev>
+<meret>6x45 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="204226545">
+<megnev>Поліаксіальний гвинт</megnev>
+<meret>6,5x45 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="204227060">
+<megnev>Поліаксіальний гвинт</megnev>
+<meret>7x60 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="204220065">
+<megnev>Поліаксіальна головка - FLEX</megnev>
+<meret></meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="204220066">
+<megnev>Редукційна поліаксіальна головка - FLEX</megnev>
+<meret></meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="204220091">
+<megnev>Поліаксіальна головка - P</megnev>
+<meret>6.35 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="204220037">
+<megnev>Редукційна поліаксіальна головка - R</megnev>
+<meret>5.5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="204220036">
+<megnev>Поліаксіальна головка - R</megnev>
+<meret>5.5 мм</meret>
+<osztaly></osztaly>
+</cimke>
 </cimkek>
