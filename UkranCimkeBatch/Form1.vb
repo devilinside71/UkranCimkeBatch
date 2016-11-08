@@ -24,7 +24,7 @@ Public Class Form1
         Dim TextLine As String
         Dim strCat As String
         Dim strQty As String
-
+        Dim strCimke As String
 
 
         strPrinter = ComboBoxPrinter.Text
@@ -50,8 +50,9 @@ Public Class Form1
                 Else
                     strQty = "1"
                 End If
-                Debug.Print(strCat & ":" & strQty)
-                strPrintText = ZebraPrint.LabelCodes(0)
+                strCimke = TextLine.Split(",")(2)
+                Debug.Print(strCat & ":" & strQty & ":" & strCimke)
+                strPrintText = ZebraPrint.LabelCodes(Val(strCimke))
 
                 Dim strMegnev As String
                 strMegnev = GetMegnev(strCat)
@@ -63,7 +64,7 @@ Public Class Form1
                     Dim strOszt As String
                     strOszt = GetOsztaly(strCat)
 
-                    strPrintText = ZebraPrint.LabelCodes(0)
+                    strPrintText = ZebraPrint.LabelCodes(Val(strCimke))
                     strPrintText = strPrintText.Replace("LABELREF", strCat)
                     strPrintText = strPrintText.Replace("LABELMEGNEV", ZebraPrint.GetZPLutf8Code(strMegnev))
                     strPrintText = strPrintText.Replace("MERET", ZebraPrint.GetZPLutf8Code(strMeret))
@@ -87,7 +88,7 @@ Public Class Form1
 
 
 
-                    strPrintText = ZebraPrint.LabelCodes(0)
+                    strPrintText = ZebraPrint.LabelCodes(Val(strCimke))
                     strPrintText = strPrintText.Replace("LABELREF", strCat)
                     strPrintText = strPrintText.Replace("MERET", "")
                     strPrintText = strPrintText.Replace("LABELMEGNEV", "ISMERETLEN")
@@ -182,11 +183,11 @@ Public Class Form1
     End Sub
     Sub Szimulacio()
         Dim strPrintText As String
-        Dim FILE_NAME As String = "CimkekBatch.txt"
+        Dim FILE_NAME As String = My.Settings.CimkeFilename
         Dim TextLine As String
         Dim strCat As String
         Dim strQty As String
-
+        Dim strCimke As String
 
 
 
@@ -202,7 +203,8 @@ Public Class Form1
                 TextLine = objReader.ReadLine()
                 strCat = TextLine.Split(",")(0)
                 strQty = TextLine.Split(",")(1)
-                Debug.Print(strCat & ":" & strQty)
+                strCimke = TextLine.Split(",")(2)
+                Debug.Print(strCat & ":" & strQty & ":" & strCimke)
 
 
                 Dim strMegnev As String

@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <labels>
-  <label name="UTF-8 test">
+  <label name="">
+    <code>
+    </code>
+  </label>  
+  <label name="Basic label">
     <code>
       ^XA
 
