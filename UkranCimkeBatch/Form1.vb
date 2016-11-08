@@ -16,11 +16,11 @@ Public Class Form1
         Call ZebraPrint.LoadLabels()
         Call LoadCimkes()
     End Sub
-    Sub ZPLPrint()
+    Sub ZPLPrint(Optional mode As Boolean = True)
         Dim strPrinter As String
         Dim strPrintText As String
         Dim res As String
-        Dim FILE_NAME As String = "CimkekBatch.txt"
+        Dim FILE_NAME As String = My.Settings.CimkeFilename
         Dim TextLine As String
         Dim strCat As String
         Dim strQty As String
@@ -45,7 +45,11 @@ Public Class Form1
             Do While objReader.Peek() <> -1
                 TextLine = objReader.ReadLine()
                 strCat = TextLine.Split(",")(0)
-                strQty = TextLine.Split(",")(1)
+                If mode = True Then
+                    strQty = TextLine.Split(",")(1)
+                Else
+                    strQty = "1"
+                End If
                 Debug.Print(strCat & ":" & strQty)
                 strPrintText = ZebraPrint.LabelCodes(0)
 
@@ -231,5 +235,9 @@ Public Class Form1
             DirectCast(sender, TextBox).SelectAll()
             e.Handled = True
         End If
+    End Sub
+
+    Private Sub ButtonTestPrint_Click(sender As Object, e As EventArgs) Handles ButtonTestPrint.Click
+        Call ZPLPrint(False)
     End Sub
 End Class

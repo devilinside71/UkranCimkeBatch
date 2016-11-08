@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <cimkek>
- <cimke name="210510002">
+<cimke name="210510002">
 <megnev>Викрутка</megnev>
 <meret>3,5 мм</meret>
 <osztaly>I.</osztaly>
@@ -2173,6 +2173,216 @@
 <cimke name="204220036">
 <megnev>Поліаксіальна головка - R</megnev>
 <meret>5.5 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261306">
+<megnev>Пластина для ключиці Vortex</megnev>
+<meret>Ліва 6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261306">
+<megnev>Пластина для ключиці Vortex</megnev>
+<meret>Ліва 6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280260513">
+<megnev>Пластина для ключиці Vortex - HK</megnev>
+<meret>Середня ліва 3H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280260515">
+<megnev>Пластина для ключиці Vortex - HK</megnev>
+<meret>Середня ліва 5H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280260613">
+<megnev>Пластина для ключиці Vortex - HK</megnev>
+<meret>Середня права 3H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261504">
+<megnev>Пластина для ключиці Vortex - H</megnev>
+<meret>Ліва 4H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261505">
+<megnev>Пластина для ключиці Vortex - H</megnev>
+<meret>Ліва 5H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261506">
+<megnev>Пластина для ключиці Vortex - H</megnev>
+<meret>Ліва 6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261604">
+<megnev>Пластина для ключиці Vortex - H</megnev>
+<meret>Права 4H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261605">
+<megnev>Пластина для ключиці Vortex - H</megnev>
+<meret>Права 5H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280261606">
+<megnev>Пластина для ключиці Vortex - H</megnev>
+<meret>Права 6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280302309">
+<megnev>Дистальна пластина для плечьової кістки Vortex - M</megnev>
+<meret>Ліва 9H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123207">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex - LAT - L</megnev>
+<meret>Права 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280123006">
+<megnev>Проксимальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>6 H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122508">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>Ліва 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="280122608">
+<megnev>Дистальна пластина для великогомілкової кістки Vortex - M</megnev>
+<meret>Права 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="364048060">
+<megnev>Блокуючий гвинт</megnev>
+<meret>4,8х60 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297311420">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>11х420 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297312380">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>12х380 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297312400">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>12х400 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297312420">
+<megnev>Стержень для стегнової кістки SpectruM </megnev>
+<meret>12х420 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297209270">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>9х270 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297210360">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>10х360 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297211285">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>11х285 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297211300">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>11х300 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297211315">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>11х315 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297211330">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>11х330 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297211345">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>11х345 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="297211360">
+<megnev>Стержень для великогомілкової кістки - TWXE</megnev>
+<meret>11х360 мм</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="275212006">
+<megnev>Пряма пластина Vortex</megnev>
+<meret>Мала 6H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="275212007">
+<megnev>Пряма пластина Vortex</megnev>
+<meret>Мала 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="275212008">
+<megnev>Пряма пластина Vortex</megnev>
+<meret>Мала 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="275214007">
+<megnev>Пряма пластина Vortex</megnev>
+<meret>Велика 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="275214008">
+<megnev>Пряма пластина Vortex</megnev>
+<meret>Велика 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="275214009">
+<megnev>Пряма пластина Vortex</megnev>
+<meret>Велика 9H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="275214010">
+<megnev>Пряма пластина Vortex</megnev>
+<meret>Велика 10H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="275216007">
+<megnev>Пряма пластина Vortex</megnev>
+<meret>XВелика 7H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="275216008">
+<megnev>Пряма пластина Vortex</megnev>
+<meret>XВелика 8H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="275216009">
+<megnev>Пряма пластина Vortex</megnev>
+<meret>XВелика 9H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="275216010">
+<megnev>Пряма пластина Vortex</megnev>
+<meret>XВелика 10H</meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398512130">
+<megnev>Cтержень для трохантера SpectruM</megnev>
+<meret>12х220 мм 130° </meret>
+<osztaly></osztaly>
+</cimke>
+<cimke name="398512324">
+<megnev>Cтержень для трохантера SpectruM</megnev>
+<meret>12х240 мм 130° </meret>
 <osztaly></osztaly>
 </cimke>
 </cimkek>

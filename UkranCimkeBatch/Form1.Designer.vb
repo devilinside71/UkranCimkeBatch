@@ -27,6 +27,7 @@ Partial Class Form1
         Me.ButtonPrint = New System.Windows.Forms.Button()
         Me.ButtonSzim = New System.Windows.Forms.Button()
         Me.TextBoxSzim = New System.Windows.Forms.TextBox()
+        Me.ButtonTestPrint = New System.Windows.Forms.Button()
         Me.TableLayoutPanel1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -39,12 +40,14 @@ Partial Class Form1
         Me.TableLayoutPanel1.Controls.Add(Me.ButtonPrint, 1, 1)
         Me.TableLayoutPanel1.Controls.Add(Me.ButtonSzim, 0, 1)
         Me.TableLayoutPanel1.Controls.Add(Me.TextBoxSzim, 0, 0)
+        Me.TableLayoutPanel1.Controls.Add(Me.ButtonTestPrint, 0, 2)
         Me.TableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.TableLayoutPanel1.Location = New System.Drawing.Point(0, 0)
         Me.TableLayoutPanel1.Name = "TableLayoutPanel1"
-        Me.TableLayoutPanel1.RowCount = 2
+        Me.TableLayoutPanel1.RowCount = 3
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 77.8169!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 22.1831!))
+        Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 45.0!))
         Me.TableLayoutPanel1.Size = New System.Drawing.Size(629, 284)
         Me.TableLayoutPanel1.TabIndex = 0
         '
@@ -62,9 +65,9 @@ Partial Class Form1
         '
         Me.ButtonPrint.Dock = System.Windows.Forms.DockStyle.Fill
         Me.ButtonPrint.Font = New System.Drawing.Font("Microsoft Sans Serif", 21.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.ButtonPrint.Location = New System.Drawing.Point(328, 224)
+        Me.ButtonPrint.Location = New System.Drawing.Point(328, 188)
         Me.ButtonPrint.Name = "ButtonPrint"
-        Me.ButtonPrint.Size = New System.Drawing.Size(298, 57)
+        Me.ButtonPrint.Size = New System.Drawing.Size(298, 47)
         Me.ButtonPrint.TabIndex = 2
         Me.ButtonPrint.Text = "Nyomtat"
         Me.ButtonPrint.UseVisualStyleBackColor = True
@@ -72,9 +75,9 @@ Partial Class Form1
         'ButtonSzim
         '
         Me.ButtonSzim.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.ButtonSzim.Location = New System.Drawing.Point(3, 224)
+        Me.ButtonSzim.Location = New System.Drawing.Point(3, 188)
         Me.ButtonSzim.Name = "ButtonSzim"
-        Me.ButtonSzim.Size = New System.Drawing.Size(319, 57)
+        Me.ButtonSzim.Size = New System.Drawing.Size(319, 47)
         Me.ButtonSzim.TabIndex = 3
         Me.ButtonSzim.Text = "Szimuláció"
         Me.ButtonSzim.UseVisualStyleBackColor = True
@@ -87,8 +90,18 @@ Partial Class Form1
         Me.TextBoxSzim.Multiline = True
         Me.TextBoxSzim.Name = "TextBoxSzim"
         Me.TextBoxSzim.ScrollBars = System.Windows.Forms.ScrollBars.Both
-        Me.TextBoxSzim.Size = New System.Drawing.Size(319, 215)
+        Me.TextBoxSzim.Size = New System.Drawing.Size(319, 179)
         Me.TextBoxSzim.TabIndex = 4
+        '
+        'ButtonTestPrint
+        '
+        Me.ButtonTestPrint.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.ButtonTestPrint.Location = New System.Drawing.Point(3, 241)
+        Me.ButtonTestPrint.Name = "ButtonTestPrint"
+        Me.ButtonTestPrint.Size = New System.Drawing.Size(319, 40)
+        Me.ButtonTestPrint.TabIndex = 5
+        Me.ButtonTestPrint.Text = "Test print"
+        Me.ButtonTestPrint.UseVisualStyleBackColor = True
         '
         'Form1
         '
@@ -111,4 +124,5 @@ Partial Class Form1
     Friend WithEvents ButtonPrint As Button
     Friend WithEvents ButtonSzim As Button
     Friend WithEvents TextBoxSzim As TextBox
+    Friend WithEvents ButtonTestPrint As Button
 End Class
