@@ -68,7 +68,7 @@
 
       ^FS
       ^FX Top section underline
-      ^FO0,100
+      ^FO15,110
       ^GB700,1,3
       ^FS
 

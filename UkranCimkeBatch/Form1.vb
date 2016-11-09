@@ -136,11 +136,6 @@ Public Class Form1
 
         End Try
 
-
-
-
-
-
         TextLine = Trim(TextBox1labelprint.Text)
         strCat = Trim(TextBox1labelprint.Text)
 
@@ -148,65 +143,47 @@ Public Class Form1
 
         strCimke = Trim(TextBox1labelType.Text)
         Debug.Print(strCat & ":" & strQty & ":" & strCimke)
-                strPrintText = ZebraPrint.LabelCodes(Val(strCimke))
+        strPrintText = ZebraPrint.LabelCodes(Val(strCimke))
 
-                Dim strMegnev As String
-                strMegnev = GetMegnev(strCat)
-                Debug.Print(strMegnev)
+        Dim strMegnev As String
+        strMegnev = GetMegnev(strCat)
+        Debug.Print(strMegnev)
 
-                If strMegnev <> vbNullString Then
-                    Dim strMeret As String
-                    strMeret = GetMeret(strCat)
-                    Dim strOszt As String
-                    strOszt = GetOsztaly(strCat)
+        If strMegnev <> vbNullString Then
+            Dim strMeret As String
+            strMeret = GetMeret(strCat)
+            Dim strOszt As String
+            strOszt = GetOsztaly(strCat)
 
-                    strPrintText = ZebraPrint.LabelCodes(Val(strCimke))
-                    strPrintText = strPrintText.Replace("LABELREF", strCat)
-                    strPrintText = strPrintText.Replace("LABELMEGNEV", ZebraPrint.GetZPLutf8Code(strMegnev))
-                    strPrintText = strPrintText.Replace("MERET", ZebraPrint.GetZPLutf8Code(strMeret))
+            strPrintText = ZebraPrint.LabelCodes(Val(strCimke))
+            strPrintText = strPrintText.Replace("LABELREF", strCat)
+            strPrintText = strPrintText.Replace("LABELMEGNEV", ZebraPrint.GetZPLutf8Code(strMegnev))
+            strPrintText = strPrintText.Replace("MERET", ZebraPrint.GetZPLutf8Code(strMeret))
 
-                    Dim oszt As String
-                    oszt = Trim(strOszt)
+            Dim oszt As String
+            oszt = Trim(strOszt)
 
-                    If oszt = "" Then
-                        oszt = "UA.TR.116"
-                    Else
-                        oszt = ""
-                    End If
+            If oszt = "" Then
+                oszt = "UA.TR.116"
+            Else
+                oszt = ""
+            End If
 
-                    strPrintText = strPrintText.Replace("OSZTALY", oszt)
-                    strPrintText = strPrintText.Replace("LABELQTY", strQty)
+            strPrintText = strPrintText.Replace("OSZTALY", oszt)
+            strPrintText = strPrintText.Replace("LABELQTY", strQty)
 
-
-                    ' Open the printer dialog box, and then allow the user to select a printer.
-                    res = ZebraPrint.SendStringToPrinter(strPrinter, strPrintText)
-                Else
-
-
-
-                    strPrintText = ZebraPrint.LabelCodes(Val(strCimke))
-                    strPrintText = strPrintText.Replace("LABELREF", strCat)
-                    strPrintText = strPrintText.Replace("MERET", "")
-                    strPrintText = strPrintText.Replace("LABELMEGNEV", "ISMERETLEN")
-
-
-
-                    strPrintText = strPrintText.Replace("OSZTALY", "")
-                    strPrintText = strPrintText.Replace("LABELQTY", "1")
-
-
-                    ' Open the printer dialog box, and then allow the user to select a printer.
-                    res = ZebraPrint.SendStringToPrinter(strPrinter, strPrintText)
-                End If
-
-
-        'Console.WriteLine(strPrintText)
-
-        ' Open the printer dialog box, and then allow the user to select a printer.
-
-
-
-
+            ' Open the printer dialog box, and then allow the user to select a printer.
+            res = ZebraPrint.SendStringToPrinter(strPrinter, strPrintText)
+        Else
+            strPrintText = ZebraPrint.LabelCodes(Val(strCimke))
+            strPrintText = strPrintText.Replace("LABELREF", strCat)
+            strPrintText = strPrintText.Replace("MERET", "")
+            strPrintText = strPrintText.Replace("LABELMEGNEV", "ISMERETLEN")
+            strPrintText = strPrintText.Replace("OSZTALY", "")
+            strPrintText = strPrintText.Replace("LABELQTY", "1")
+            ' Open the printer dialog box, and then allow the user to select a printer.
+            res = ZebraPrint.SendStringToPrinter(strPrinter, strPrintText)
+        End If
         MessageBox.Show("KÉSZ!")
     End Sub
 
