@@ -15,12 +15,13 @@ Public Class Form1
         ComboBoxPrinter.SelectedIndex = 0
         Call ZebraPrint.LoadLabels()
         Call LoadCimkes()
+        TextBoxCimkeFile.Text = My.Settings.CimkeFilename
     End Sub
     Sub ZPLPrint(Optional mode As Boolean = True)
         Dim strPrinter As String
         Dim strPrintText As String
         Dim res As String
-        Dim FILE_NAME As String = My.Settings.CimkeFilename
+        Dim FILE_NAME As String = Trim(TextBoxCimkeFile.Text)
         Dim TextLine As String
         Dim strCat As String
         Dim strQty As String
@@ -111,7 +112,7 @@ Public Class Form1
             Loop
         Else
 
-            MessageBox.Show("CimkekBatch.txt nem található")
+            MessageBox.Show(Trim(TextBoxCimkeFile.Text) & " nem található")
         End If
 
 
@@ -122,7 +123,7 @@ Public Class Form1
         Dim strPrinter As String
         Dim strPrintText As String
         Dim res As String
-        Dim FILE_NAME As String = My.Settings.CimkeFilename
+        Dim FILE_NAME As String = Trim(TextBoxCimkeFile.Text)
         Dim TextLine As String
         Dim strCat As String
         Dim strQty As String
@@ -250,7 +251,7 @@ Public Class Form1
     End Sub
     Sub Szimulacio()
         Dim strPrintText As String
-        Dim FILE_NAME As String = My.Settings.CimkeFilename
+        Dim FILE_NAME As String = Trim(TextBoxCimkeFile.Text)
         Dim TextLine As String
         Dim strCat As String
         Dim strQty As String
@@ -291,7 +292,7 @@ Public Class Form1
             TextBoxSzim.Text = strPrintText
         Else
 
-            MessageBox.Show("CimkekBatch.txt nem található")
+            MessageBox.Show(Trim(TextBoxCimkeFile.Text) & " nem található")
         End If
 
 
@@ -312,5 +313,9 @@ Public Class Form1
 
     Private Sub Button1LabelPrint_Click(sender As Object, e As EventArgs) Handles Button1LabelPrint.Click
         Call ZPL1LabelPrint()
+    End Sub
+
+    Private Sub TableLayoutPanel1_Paint(sender As Object, e As PaintEventArgs) Handles TableLayoutPanel1.Paint
+
     End Sub
 End Class
